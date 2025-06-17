@@ -1,0 +1,13 @@
+{
+  "/About/page": "app/About/page.js",
+  "/Blogs/page": "app/Blogs/page.js",
+  "/Joinus/page": "app/Joinus/page.js",
+  "/OurService/page": "app/OurService/page.js",
+  "/OurWork/page": "app/OurWork/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/careers/page": "app/careers/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/industries/page": "app/industries/page.js",
+  "/page": "app/page.js",
+  "/process/page": "app/process/page.js"
+}
